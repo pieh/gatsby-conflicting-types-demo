@@ -1,6 +1,15 @@
 ---
 title: Hello World
 date: "2015-05-01T22:12:03.284Z"
+scalarTest: 'string'
+scalarObjectTest: 'string'
+objectArrayTest:
+  - 5
+mixedArrayInSingleNodeTest:
+  - 5
+  - 'string'
+mixedArrayInDifferentNodesTest:
+  - 5
 ---
 
 This is my first post on my new fake blog! How exciting!
