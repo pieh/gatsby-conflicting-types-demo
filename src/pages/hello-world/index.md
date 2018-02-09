@@ -8,6 +8,7 @@ objectArrayTest:
 mixedArrayInSingleNodeTest:
   - 5
   - 'string'
+  - 'anotherString'
 mixedArrayInDifferentNodesTest:
   - 5
 ---
